@@ -1,10 +1,10 @@
-title: devansh's website # name of the site
+title: devansh pandey # name of the site
 author: Devansh Pandey # name of site's author
 email: devansh.r.pandey@gmail.com # email of site's author
 url: https://devansh.blog # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  The personal website of Devansh Pandey.
 
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
