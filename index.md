@@ -4,7 +4,7 @@ layout: home
 
 hey! i'm devansh. you can <a id="mlink" href="#">contact me here</a>.
 
-- currently: consulting at the <a href="https://sfcompute.com">san francisco compute company</a>, figuring out whether to stay long term. 
+- currently: working at the <a href="https://sfcompute.com">san francisco compute company</a>, figuring out whether to commit long term. 
 - i nominally study philosophy, politics, and economics at oxford university. founded the <a href="https://www.instagram.com/oxfordbreadsoc/">oxford bread society</a> and run events for the <a href="https://www.instagram.com/oxfordswiftsoc/">taylor swift society</a>.
 - i dropped out of high school, ran a hackathon in rural japan, and ran ops and finance for one of the largest scholarship organizations in the world. started a microschool with about 10 students called the atlas academy.
 
