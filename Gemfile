@@ -8,3 +8,8 @@ gem "github-pages"
 
 gem "no-style-please"
 gem "webrick"
+
+group :jekyll_plugins do
+    gem "jekyll-remote-theme"
+  end
+  

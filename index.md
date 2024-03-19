@@ -2,10 +2,26 @@
 layout: home
 ---
 
-hey! i'm devansh.
+hey! i'm devansh. you can <a id="mlink" href="#">contact me here</a>.
 
-- i'm currently working at the <a href="https://sfcompute.com">san francisco compute company</a> in, you guessed it, sf.
-- i'm nominally studying philosophy, politics, and economics at oxford university. i founded the <a href="https://www.instagram.com/oxfordbreadsoc/">oxford bread society</a> and am on the committee of the <a href="https://www.instagram.com/oxfordswiftsoc/">taylor swift society</a> (yes, really).
-- in the past, i created a hackathon in hakuba, japan; ran finance for what was briefly the largest scholarship organization in the worldl; and probably set a world record for bubble tea consumption. i also briefly started a bill payments and accounting startup à la digits.com and routable.
+- currently: consulting at the <a href="https://sfcompute.com">san francisco compute company</a>, figuring out whether to stay long term. 
+- i nominally study philosophy, politics, and economics at oxford university. founded the <a href="https://www.instagram.com/oxfordbreadsoc/">oxford bread society</a> and run events for the <a href="https://www.instagram.com/oxfordswiftsoc/">taylor swift society</a>.
+- i dropped out of high school, ran a hackathon in rural japan, and ran ops and finance for one of the largest scholarship organizations in the world. started a microschool with about 10 students called the atlas academy.
 
-- i like getting deep into the weeds of random things, esp the financial systems that underpin our world. most recently it was the commodity exchange act and money transmitter regulation; before that it 
+- fav books: the three body problem trilogy, unequivocally.
+
+- fav bloggers: [patrick mackenzie](https://www.bitsaboutmoney.com/), [matt levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine), and [nate silver](https://www.natesilver.net/).
+
+- [random side project ideas](https://docs.google.com/document/d/e/2PACX-1vS9IgNvrH5CCywQjFzXXG2jDCyP4EdIQBl0k1YdrbAoaZM6zce4lZBgj_nnBJQHXC5YnBS0j6l4ccK5/pub)
+
+<script>
+/* 1. define variables */
+var me = "hello";
+var place = "devanshpanda.com";
+
+/* 2. find email link to replace */
+var elink = document.getElementById("mlink");
+
+/* 3. replace link href with variables  */
+elink.href = `mailto:${me}@${place}`;
+</script>
