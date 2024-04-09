@@ -2,26 +2,14 @@
 layout: home
 ---
 
-hey! i'm devansh. you can <a id="mlink" href="#">contact me here</a>.
+hey! i'm devansh. you can <a href="mailto:hello@devanshpanda.com">contact me here</a>.
 
-- currently: working at the <a href="https://sfcompute.com">san francisco compute company</a>, figuring out whether it makes sense to commit long term. 
-- i nominally study philosophy, politics, and economics at oxford university. founded the <a href="https://www.instagram.com/oxfordbreadsoc/">oxford bread society</a> and run events for the <a href="https://www.instagram.com/oxfordswiftsoc/">taylor swift society</a>.
-- i dropped out of high school, ran a hackathon in rural japan, and ran ops and finance for one of the largest scholarship organizations in the world. started a microschool with about 10 students called the atlas academy.
+- currently: cofounding <a href="https://stdint.com">Standard Intelligence</a>. we're building end-to-end voice models.
+- studied ppe at oxford university. started the <a href="https://www.instagram.com/oxfordbreadsoc/">oxford bread society</a> and helped run the <a href="https://www.instagram.com/oxfordswiftsoc/">taylor swift society</a>.
+- i dropped out of high school to run ops/finance at the atlas fellowship (largest scholarship program in the world in 2022). started a microschool there with about 10 students called the atlas academy. also ran a small hackathon in rural japan; pt 2 will be in europe later this year.
 
 - fav books: the three body problem trilogy, unequivocally.
 
-- fav bloggers: [patrick mackenzie](https://www.bitsaboutmoney.com/), [matt levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine), and [nate silver](https://www.natesilver.net/).
+- fav bloggers: [patrick mackenzie](https://www.bitsaboutmoney.com/) and [matt levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine).
 
 - [random side project ideas](https://docs.google.com/document/d/e/2PACX-1vS9IgNvrH5CCywQjFzXXG2jDCyP4EdIQBl0k1YdrbAoaZM6zce4lZBgj_nnBJQHXC5YnBS0j6l4ccK5/pub)
-
-<script>
-/* 1. define variables */
-var me = "hello";
-var place = "devanshpanda.com";
-
-/* 2. find email link to replace */
-var elink = document.getElementById("mlink");
-
-/* 3. replace link href with variables  */
-elink.href = `mailto:${me}@${place}`;
-</script>
