@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+last updated: apr 17 2024
 
 hey! i'm devansh. you can <a href="mailto:hello@devanshpanda.com">contact me here</a>.
 
@@ -13,3 +14,5 @@ hey! i'm devansh. you can <a href="mailto:hello@devanshpanda.com">contact me her
 - fav bloggers: [patrick mackenzie](https://www.bitsaboutmoney.com/) and [matt levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine).
 
 - [random side project ideas](https://docs.google.com/document/d/e/2PACX-1vS9IgNvrH5CCywQjFzXXG2jDCyP4EdIQBl0k1YdrbAoaZM6zce4lZBgj_nnBJQHXC5YnBS0j6l4ccK5/pub)
+
+- [my favorite local h100 company](https://sfcompute.com)
