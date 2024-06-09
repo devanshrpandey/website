@@ -1,14 +1,15 @@
 ---
 layout: home
 ---
-last updated: apr 17 2024
+Last Updated: Jun 9, 2024
 
-hey! i'm devansh. you can <a href="mailto:hello@devanshpanda.com">contact me here</a>.
+Hey! I'm Devansh. You can <a href="mailto:hello@devanshpanda.com">contact me here</a>.
 
-- currently: cofounding <a href="https://stdint.com">Standard Intelligence</a>. we're building end-to-end voice models.
-- studied ppe at oxford university. started the <a href="https://www.instagram.com/oxfordbreadsoc/">oxford bread society</a> and helped run the <a href="https://www.instagram.com/oxfordswiftsoc/">taylor swift society</a>.
-- dropped out of high school. first employee @ the atlas fellowship  (largest scholarship program in the world in 2022). co-ran ops / finance / fellow selection, started a microschool called atlas academy. ran a small hackathon in rural japan.
+- Currently: cofounding <a href="https://stdint.com">Standard Intelligence</a>. We're building conversational voice models; if you're interested in that, consider joining us.
+- Dropped out of high school; studied PPE at Oxford. Started the <a href="https://www.instagram.com/oxfordbreadsoc/">Oxford Bread Society</a> and helped run the <a href="https://www.instagram.com/oxfordswiftsoc/">Taylor Swift Society</a>.
+- First employee @ the Atlas Fellowship (largest scholarship program in the world in 2022). I co-ran ops / finance / fellow selection and started a microschool called Atlas Academy. Also ran a 20-person hackathon in rural Japan last summer.
+- Ran the <a href="https://prometheus.science/">largest Science Bowl competition in the world.</a>
 
-- fav books: the three body problem trilogy, unequivocally.
+- Favorite books: the Three Body Problem trilogy, unequivocally.
 
-- fav bloggers: [patrick mackenzie](https://www.bitsaboutmoney.com/) and [matt levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine).
+- Favorite bloggers: [Patrick Mackenzie](https://www.bitsaboutmoney.com/) and [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine).
