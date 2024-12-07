@@ -13,5 +13,3 @@ Hey! I'm Devansh. You can <a href="mailto:hello@devanshpanda.com">contact me her
 - Favorite books: the Three Body Problem trilogy, unequivocally.
 
 - Favorite bloggers: [Patrick Mackenzie](https://www.bitsaboutmoney.com/) and [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine).
-
-I am not currently under any NDAs that prevent me from acknowledging their existence.
