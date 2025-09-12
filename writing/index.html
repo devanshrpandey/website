@@ -36,18 +36,25 @@
     .back-link {
       margin-bottom: 1rem;
       display: block;
+      color: black;
+      text-decoration: none;
     }
     .blog-card {
       border: thin solid black;
-      padding: 1rem;
-      margin: 1rem 0;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
       text-decoration: none;
       color: black;
       display: block;
       max-width: 500px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      transition: all 0.2s ease;
     }
     .blog-card:hover {
-      background: #f5f5f5;
+      background: #f9f9f9;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+      transform: translateY(-2px);
     }
     .blog-card h2 {
       margin-top: 0;
@@ -70,7 +77,7 @@
           <h1 class="post-title">devansh's writing</h1>
         </header>
 
-        <a href="volatility.html" class="blog-card">
+        <a href="volatility/" class="blog-card">
           <h2>The value of employee equity depends a lot on volatility</h2>
           <p>Because you should expect to get lots of information about whether an early-stage startup is succeeding or failing—and have the option to leave—standard vesting gives employees an embedded call option on startup equity that's worth multiple times more than what you would be willing to pay for it if you were investing.</p>
         </a>
